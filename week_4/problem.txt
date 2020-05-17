@@ -1,0 +1,3 @@
+To open Food Stalls business we should know about our competitor , if we open food stalls with same food type in same region with many  competitors we will face massive competition. 
+
+In Yogyakarta, Indonesia , there are many favorit food like sate, gudeg, ayam bakar, etc . I will search many favorite foods by using Foursquare API . Then i will cluster by location. Then i will give report per cluster about percentage of food stalls  that  sell the favorite food so we can know about the competition there
